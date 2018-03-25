@@ -1,10 +1,7 @@
 # NodeMCU & Blynk
 
----
 
 ![](/assets/F0RBWFHIPCUHGB0.LARGE.jpg)
-
----
 
 ### Software Requirements:
 
@@ -19,8 +16,6 @@
 
 ## A. Dasar Teori
 
----
-
 #### 1. NodeMCU
 
 Secara fungsi NodeMCU ini hampir menyerupai platform modul arduino, tetapi yang membedakan arduino dengan NodeMCU ini adalah NodeMCU dibuat memang dikhususkan untuk "connected to internet". Oleh sebab itu NodeMCU memiliki built-in Wi-Fi.
@@ -33,13 +28,9 @@ Aplikasi pada IoS ataupun Android yang memungkinkan untuk mengendalikan Arduino,
 
 ---
 
-1. Tambah Library Blynk
+1. Tambah Library Blynk (https://github.com/blynkkk/blynk-library/releases/tag/v0.5.1)
 
-https://github.com/blynkkk/blynk-library/releases/tag/v0.5.1
-
-2. Tambah additional Board Manager
-
-http://arduino.esp8266.com/versions/2.4.1/package\_esp8266com\_index.json
+2. Tambah additional Board Manager (http://arduino.esp8266.com/versions/2.4.1/package\_esp8266com\_index.json)
 
 3. Buat rangkaian seperti gambar berikut.![](/assets/F5AFMEQIPCUHCMH.LARGE.jpg)
 
